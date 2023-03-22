@@ -1,0 +1,60 @@
+{
+  "_from": "hexo-theme-stellar",
+  "_id": "hexo-theme-stellar@1.18.5",
+  "_inBundle": false,
+  "_integrity": "sha512-mi064I+odaBoQq+N5Uw7JqYOHq88kG2UvI7kVO5oyqjkPuI3cvZzNmHxgkJT0HhwxgjlfVwhK3vIRNLazZ2GfQ==",
+  "_location": "/hexo-theme-stellar",
+  "_phantomChildren": {
+    "jake": "10.8.5"
+  },
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "hexo-theme-stellar",
+    "name": "hexo-theme-stellar",
+    "escapedName": "hexo-theme-stellar",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmmirror.com/hexo-theme-stellar/-/hexo-theme-stellar-1.18.5.tgz",
+  "_shasum": "cf63a9909866cf6d5c53d0ffe4b2cd3064e91959",
+  "_spec": "hexo-theme-stellar",
+  "_where": "C:\\Users\\KD\\Desktop\\iJieFeng.github.io",
+  "author": {
+    "name": "[@xaoxuu]",
+    "url": "https://github.com/xaoxuu/"
+  },
+  "bugs": {
+    "url": "https://github.com/xaoxuu/hexo-theme-stellar/issues/"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "hexo-renderer-ejs": "^2.0.0",
+    "hexo-renderer-stylus": "^2.1.0"
+  },
+  "deprecated": false,
+  "description": "Elegant and powerful theme for Hexo.",
+  "devDependencies": {},
+  "homepage": "https://xaoxuu.com/wiki/stellar/",
+  "keywords": [
+    "hexo",
+    "theme",
+    "stellar"
+  ],
+  "license": "MIT",
+  "main": "package.json",
+  "name": "hexo-theme-stellar",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xaoxuu/hexo-theme-stellar.git"
+  },
+  "scripts": {
+    "test": "echo test"
+  },
+  "version": "1.18.5"
+}
